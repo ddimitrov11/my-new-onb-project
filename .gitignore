@@ -71,6 +71,9 @@ cache/
 ### Plugins ###
 # List the plugins here
 
+# Query Monitor db.php - it's auto generated and should not be committed
+wp-content/db.php
+
 ### Backups Files ###
 # List the backup files here
 
