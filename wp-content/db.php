@@ -1,0 +1,1 @@
+/var/www/html/my-new-onb-project/wp-content/plugins/query-monitor/wp-content/db.php
